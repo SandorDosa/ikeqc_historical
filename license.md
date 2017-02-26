@@ -13,7 +13,7 @@ Source under any license, nor is that software bound by this license.
 Participants of the Inter-Kingdom Equestrian Competition have agreed to grant 
 [SCAIKEQC.ORG](http://scaikeqc.org) a non-exclusive perpetual and revocable 
 license to publish their names and scores.  The participants retain all 
-rights to their names and the scores submitted for publication.
+rights to their names and their scores submitted for publication.
 
 The Standard Apache License follows.
 
